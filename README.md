@@ -1,3 +1,3 @@
 
 # Karol-AI-Assistant
- <h1>Learned Fro CodeWithHarry</h1>
+ <p>Learned From CodeWithHarry</p>
